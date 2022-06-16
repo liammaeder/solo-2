@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/solo-2/static/css/main.1335346e.css",
+    "main.js": "/solo-2/static/js/main.a4892ea2.js",
+    "static/media/location-icon.png": "/solo-2/static/media/location-icon.c022e0a6d5465950aa91.png",
+    "static/media/geirangerfjord.png": "/solo-2/static/media/geirangerfjord.15ca32fcbd2c02a29ec9.png",
+    "static/media/sydney-opera-house.png": "/solo-2/static/media/sydney-opera-house.885c84212dddd303b4e9.png",
+    "static/media/location-icon-2.png": "/solo-2/static/media/location-icon-2.bf9b132d42af328660b1.png",
+    "static/media/book-icon.png": "/solo-2/static/media/book-icon.d4b7759d722490efd790.png",
+    "static/media/mount-fuji.png": "/solo-2/static/media/mount-fuji.bdf298653a3e0e729211.png",
+    "index.html": "/solo-2/index.html",
+    "main.1335346e.css.map": "/solo-2/static/css/main.1335346e.css.map",
+    "main.a4892ea2.js.map": "/solo-2/static/js/main.a4892ea2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1335346e.css",
+    "static/js/main.a4892ea2.js"
+  ]
+}
